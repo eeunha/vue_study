@@ -7,6 +7,7 @@
     <TodoInput></TodoInput>
     <TodoList></TodoList>
     <TodoFooter></TodoFooter>
+    <p>test</p>
   </div>
 </template>
 
